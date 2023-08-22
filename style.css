@@ -374,8 +374,8 @@ html{
 /*Estas clases se agregan dinamicamente mediante javascript*/
 .skills .skill .javascript{
     width: 0%;
-    animation: 2s javascript forwards;
-    -webkit-animation: 2s javascript forwards;
+    animation: 3s javascript forwards;
+    -webkit-animation: 3s javascript forwards;
 }
 
 @keyframes javascript {
@@ -398,8 +398,8 @@ html{
 
 .skills .skill .cpp{
     width: 0%;
-    animation: 2s cpp forwards;
-    -webkit-animation: 2s cpp forwards;
+    animation: 4s cpp forwards;
+    -webkit-animation: 4s cpp forwards;
 }
 
 @keyframes cpp {
@@ -422,8 +422,8 @@ html{
 
 .skills .skill .photoshop{
     width: 0%;
-    animation: 2s photoshop forwards;
-    -webkit-animation: 2s photoshop forwards;
+    animation: 1s photoshop forwards;
+    -webkit-animation: 1s photoshop forwards;
 }
 
 @keyframes photoshop {
@@ -434,8 +434,8 @@ html{
 
 .skills .skill .comunicacion{
     width: 0%;
-    animation: 2s comunicacion forwards;
-    -webkit-animation: 2s comunicacion forwards;
+    animation: 3s comunicacion forwards;
+    -webkit-animation: 3s comunicacion forwards;
 }
 
 @keyframes comunicacion {
@@ -446,8 +446,8 @@ html{
 
 .skills .skill .trabajoenequipo{
     width: 0%;
-    animation: 2s trabajoenequipo forwards;
-    -webkit-animation: 2s trabajoenequipo forwards;
+    animation: 4s trabajoenequipo forwards;
+    -webkit-animation: 4s trabajoenequipo forwards;
 }
 
 @keyframes trabajoenequipo {
@@ -470,8 +470,8 @@ html{
 
 .skills .skill .dedicacion{
     width: 0%;
-    animation: 2s dedicacion forwards;
-    -webkit-animation: 2s dedicacion forwards;
+    animation: 3s dedicacion forwards;
+    -webkit-animation: 3s dedicacion forwards;
 }
 
 @keyframes dedicacion {
@@ -482,8 +482,8 @@ html{
 
 .skills .skill .adbd{
     width: 0%;
-    animation: 2s adbd forwards;
-    -webkit-animation: 2s adbd forwards;
+    animation: 1s adbd forwards;
+    -webkit-animation: 1s adbd forwards;
 }
 
 @keyframes adbd {
@@ -494,8 +494,8 @@ html{
 
 .skills .skill .resiliencia{
     width: 0%;
-    animation: 2s resiliencia forwards;
-    -webkit-animation: 2s resiliencia forwards;
+    animation: 3s resiliencia forwards;
+    -webkit-animation: 3s resiliencia forwards;
 }
 
 @keyframes resiliencia {
@@ -506,8 +506,8 @@ html{
 
 .skills .skill .lightroom{
     width: 0%;
-    animation: 2s lightroom forwards;
-    -webkit-animation: 2s lightroom forwards;
+    animation: 3s lightroom forwards;
+    -webkit-animation: 3s lightroom forwards;
 }
 
 @keyframes lightroom {
