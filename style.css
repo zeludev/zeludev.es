@@ -13,7 +13,7 @@ html{
 
 /*MENU*/
 .contenedor-header {
-    background: #1e2326;
+    background: rgba(30, 35, 38, 0.9);
     position: fixed;
     width: 100%;
     top: 0;
@@ -57,6 +57,8 @@ html{
     color: #1CB698;
 
 }
+
+
 
 .nav-responsive{
     background-color: #1CB698;
@@ -487,6 +489,30 @@ html{
 @keyframes adbd {
     0%{width: 0%;}
     100%{width: 65%;}
+    
+}
+
+.skills .skill .resiliencia{
+    width: 0%;
+    animation: 2s resiliencia forwards;
+    -webkit-animation: 2s resiliencia forwards;
+}
+
+@keyframes resiliencia {
+    0%{width: 0%;}
+    100%{width: 70%;}
+    
+}
+
+.skills .skill .lightroom{
+    width: 0%;
+    animation: 2s lightroom forwards;
+    -webkit-animation: 2s lightroom forwards;
+}
+
+@keyframes lightroom {
+    0%{width: 0%;}
+    100%{width: 80%;}
     
 }
 
