@@ -33,7 +33,7 @@ html {
 .contenedor-header header .logo a {
   font-family: "Righteous";
   font-size: 36px;
-  color: #1cb698;
+  color: #ffe180;
   text-decoration: none;
 }
 
@@ -55,11 +55,11 @@ html {
   text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover {
-  color: #1cb698;
+  color: #ffe180;
 }
 
 .nav-responsive {
-  background-color: #1cb698;
+  background-color: #ffe180;
   color: #fff;
   padding: 5px 10px;
   border-radius: 5px;
@@ -101,7 +101,7 @@ html {
 }
 .inicio .contenido-banner img {
   margin-top: 40px;
-  border: 10px solid #1cb698;
+  border: 10px solid #ffe180;
   width: 80%;
   margin: auto;
   border-radius: 100%;
@@ -140,7 +140,7 @@ html {
 }
 
 .inicio .contenido-banner .redes a:hover {
-  background-color: #1cb698;
+  background-color: #ffe180;
 }
 
 .sobremi {
@@ -168,7 +168,7 @@ html {
 }
 
 .sobremi .contenido-seccion p span {
-  color: #1cb698;
+  color: #ffe180;
   font-weight: bold;
 }
 
@@ -196,12 +196,12 @@ html {
 
 .sobremi .fila .col ul li strong {
   display: inline-block;
-  color: #1cb698;
+  color: #ffe180;
   width: 130px;
 }
 
 .sobremi .fila .col ul li span {
-  background-color: #1cb698;
+  background-color: #ffe180;
   padding: 3px;
   font-weight: bold;
   border-radius: 5px;
@@ -238,7 +238,7 @@ html {
 }
 
 .sobremi .fila .col .contenedor-intereses .interes:hover {
-  background-color: #1cb698;
+  background-color: #ffe180;
 }
 
 .sobremi .fila .col .contenedor-intereses .interes i {
@@ -267,7 +267,7 @@ html {
   left: 0;
   width: 0;
   height: 100%;
-  background-color: #1cb698;
+  background-color: #ffe180;
   z-index: -1;
   transition: 1s;
   -webkit-transition: 1s;
@@ -330,7 +330,7 @@ html {
 }
 
 .skills .skill .progreso {
-  background-color: #1cb698;
+  background-color: #ffe180;
   position: absolute;
   top: 0;
   left: 0;
@@ -341,7 +341,7 @@ html {
   position: absolute;
   height: 40px;
   width: 40px;
-  background-color: #1cb698;
+  background-color: #ffe180;
   border-radius: 50px;
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
@@ -352,6 +352,7 @@ html {
   top: -17px;
   right: -15px;
   font-size: 14px;
+  color: black;
 }
 
 /*Estas clases se agregan dinamicamente mediante javascript*/
@@ -590,7 +591,7 @@ html {
 }
 
 .curriculum .fila .item .casa {
-  color: #1cb698;
+  color: #ffe180;
   font-size: 22px;
   font-weight: bold;
   display: block;
@@ -598,7 +599,7 @@ html {
 
 .curriculum .fila .item .fecha {
   display: block;
-  color: #1cb698;
+  color: #ffe180;
   margin-bottom: 10px;
 }
 
@@ -607,18 +608,18 @@ html {
 }
 
 .curriculum .fila .izq {
-  border-right: 2px solid #1cb698;
+  border-right: 2px solid #ffe180;
   margin-right: 20px;
 }
 
 .curriculum .fila .der {
-  border-left: 2px solid #1cb698;
+  border-left: 2px solid #ffe180;
   margin-left: 20px;
 }
 
 .curriculum .fila .item .conectori {
   height: 2px;
-  background-color: #1cb698;
+  background-color: #ffe180;
   width: 47px;
   position: absolute;
   top: 50%;
@@ -635,7 +636,7 @@ html {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  background-color: #1cb698;
+  background-color: #ffe180;
   float: right;
   position: relative;
   bottom: 4px;
@@ -643,7 +644,7 @@ html {
 
 .curriculum .fila .item .conectord {
   height: 2px;
-  background-color: #1cb698;
+  background-color: #ffe180;
   width: 47px;
   position: absolute;
   top: 50%;
@@ -660,7 +661,7 @@ html {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  background-color: #1cb698;
+  background-color: #ffe180;
   float: left;
   position: relative;
   bottom: 4px;
@@ -729,7 +730,7 @@ html {
   left: 0;
   width: 0;
   height: 100%;
-  background-color: #1cb698;
+  background-color: #ffe180;
   z-index: -1;
   transition: 1s;
   -webkit-transition: 1s;
@@ -808,7 +809,7 @@ footer .arriba {
   display: block;
   width: 50px;
   height: 50px;
-  background-color: #1cb698;
+  background-color: #ffe180;
   color: #fff;
   position: absolute;
   left: 50%;
